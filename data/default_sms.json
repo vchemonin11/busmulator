@@ -1,0 +1,25 @@
+{
+  "name": "default_sms",
+  "messages": [
+    {
+      "text": "C1",
+      "date": "2023-12-25T14:13:00.000Z",
+      "direction": "to"
+    },
+    {
+      "text": "U Beogradu, za broj telefona 381612655xxx, ste kupili DNEVNU KARTU U ZONI C(AB) po ceni od 150 din + osnovna cena poruke, koja vazi do 25.12.2023 00:00:00. \nKarta broj: 0011530326. \nPlacanjem operateru izmirujete dugovanja za ovu kartu prema JKP Naplata prevozne usluge Beograd. Sacuvajte ovu poruku.",
+      "date": "2023-12-25T14:13:04.000Z",
+      "direction": "from"
+    },
+    {
+      "text": "A90",
+      "date": "2024-01-03T14:13:04.000Z",
+      "direction": "to"
+    },
+    {
+      "text": "U Beogradu, za broj telefona 381612655xxx, ste kupili VREMENSKU KARTU OD 90 MINUTA U ZONI A po ceni od 50 din + osnovna cena poruke, koja vazi do 03.01.2024 16:13:13. \nKarta broj: 0011938905. \nPlacanjem operateru izmirujete dugovanja za ovu kartu prema JKP Naplata prevozne usluge Beograd. Sacuvajte ovu poruku.",
+      "date": "2024-01-03T14:13:13.000Z",
+      "direction": "from"
+    }
+  ]
+}
