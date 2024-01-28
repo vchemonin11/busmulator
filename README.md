@@ -1,4 +1,4 @@
-# Strider
+# Busmulator
 Эмулятор родного приложения sms в Xiaomi
 
 [![Test covered](https://github.com/asavan/strider/actions/workflows/static.yml/badge.svg)](https://github.com/asavan/strider/actions/workflows/static.yml)
